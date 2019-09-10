@@ -11,7 +11,7 @@ A demo user management server written in Clojure.
 
 ## Prerequisites
 
-- You will need [Leiningen][] 2.0.0 or above installed. [leiningen]: https://github.com/technomancy/leiningen
+- You will need [Leiningen](https://github.com/technomancy/leiningen) 2.0.0 or above installed.
 - PostgreSQL is used for the data store.
 
 ## Running
